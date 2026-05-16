@@ -1,0 +1,233 @@
+{
+  "websites": {
+    "note": "Laxman Andhale Portfolio",
+    "totalDomains": 2,
+    "domains": [
+      {
+        "url": "https://laxmansa.github.io/Portfolio/",
+        "name": "GitHub Pages Portfolio",
+        "type": "Primary",
+        "hosting": "GitHub Pages",
+        "ssl": true,
+        "description": "Main portfolio hosted on GitHub Pages",
+        "repository": "https://github.com/LaxmanSA/Portfolio"
+      },
+      {
+        "url": "https://laxman-portfolio.netlify.app",
+        "name": "Netlify Portfolio",
+        "type": "Secondary",
+        "hosting": "Netlify",
+        "ssl": true,
+        "description": "Portfolio mirror hosted on Netlify"
+      }
+    ],
+    "features": {
+      "responsive": true,
+      "darkMode": false,
+      "animations": true,
+      "seo": true,
+      "pwa": false,
+      "analytics": false
+    },
+    "techStack": {
+      "frontend": "React.js",
+      "styling": "CSS3 with Bootstrap",
+      "animations": "Animate.css",
+      "email": "EmailJS",
+      "deployment": "GitHub Pages"
+    }
+  },
+  "personalInfo": {
+    "name": "Laxman Andhale",
+    "title": "Full-Stack Developer | Backend Architect & React Specialist",
+    "tagline": "Welcome to my Portfolio",
+    "phone": "+91 8856087006",
+    "email": "laxmanandhale2004@gmail.com",
+    "motto": "Precision and efficiency in every line of code",
+    "footerTagline": "Building scalable solutions",
+    "footerMotto": "From backend to frontend - full-stack excellence",
+    "rotatingTitles": [
+      "Backend Architect",
+      "React Specialist", 
+      "Full-Stack Developer"
+    ],
+    "description": [
+      "B.Sc. Computer Science graduate with a specialized background in API Development and scalable systems. During my tenure as an API Developer Intern, I mastered the .NET ecosystem, specifically leveraging Dapper for high-performance data access and Entity Framework (EF Core) for robust modeling. I focused heavily on SQL optimization, writing complex Stored Procedures, and refining backend scalability to handle enterprise-level data logic.",
+      "Currently, as a Full-Stack Intern at Algo Analytics (Feb – June 2026), I am bridging the gap between high-speed backends and responsive interfaces through live React.js projects. I actively collaborate across teams to deploy full-stack solutions, utilizing Docker for containerization and GitHub for advanced version control and CI/CD workflows.",
+      "My technical foundation includes Java (Spring Boot, Hibernate), C# (.NET), and MySQL. From architecting automated scheduling systems to building secure online voting platforms, I leverage a comprehensive stack—including React, JavaScript, and RESTful APIs—to build professional software that scales."
+    ]
+  },
+  "socialLinks": {
+    "linkedin": "https://www.linkedin.com/in/laxman-andhale-/",
+    "github": "https://github.com/LaxmanSA",
+    "whatsapp": "https://wa.me/918856087006"
+  },
+  "skills": {
+    "technical": [
+      "Backend Development",
+      "API Development", 
+      "Database Management",
+      "Web Applications",
+      "React.js"
+    ],
+    "soft": [
+      "Strategic Planning",
+      "Team Collaboration",
+      "Precision Focus"
+    ],
+    "languages": [
+      "C#",
+      ".NET",
+      "Java", 
+      "SQL",
+      "Python",
+      "JavaScript",
+      "React"
+    ],
+    "frameworks": [
+      "Spring Boot",
+      "Hibernate",
+      "Spring MVC",
+      "Entity Framework",
+      "Dapper",
+      "Docker"
+    ],
+    "tools": [
+      "GitHub",
+      "GitHub CI/CD",
+      "VS Code",
+      "Postman"
+    ],
+    "databases": [
+      "MySQL",
+      "MSSQL"
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "API Developer Intern",
+      "company": "Probus Software Pvt Ltd",
+      "period": "Aug 2025 - Dec 2025",
+      "description": "Mastered .NET ecosystem - Dapper for high-performance data access, EF Core for ORM. Complex Stored Procedures, SQL optimization, enterprise backend scalability. Structured database integration for fullstack applications.",
+      "skills": [
+        ".NET",
+        "Dapper", 
+        "EF Core",
+        "SQL Stored Procedures",
+        "Backend Architecture"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Full-Stack Developer Intern", 
+      "company": "Algo Analytics",
+      "period": "Jan 2026 - Present",
+      "description": "Live React.js full-stack projects. Docker containerization, GitHub Actions CI/CD. Backend-frontend integration across distributed teams. Deploy scalable production solutions.",
+      "skills": [
+        "React.js",
+        "Docker", 
+        "GitHub CI/CD",
+        "Full-Stack Integration",
+        "Team Development"
+      ],
+      "current": true
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Science (Computer Science)",
+      "institution": "Savitribai Phule Pune University",
+      "period": "2022 - 2025",
+      "description": "BSc CS CGPA 7.92 - backend development, databases, algorithms (completed)",
+      "achievements": ["CGPA: 7.92"],
+      "current": false
+    },
+    {
+      "id": 2,
+      "degree": "Higher Secondary Certificate",
+      "institution": "Maharashtra State Board",
+      "period": "2020 - 2022",
+      "achievements": ["44.17%"]
+    },
+    {
+      "id": 3,
+      "degree": "Secondary School Certificate", 
+      "institution": "Maharashtra State Board",
+      "period": "2020",
+      "achievements": ["70.80%"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Online Voting System",
+      "description": "Secure admin-managed voter registration. PHP/MySQL backend, HTML/CSS frontend. Registration, login, voting with real-time results processing.",
+      "imgUrl": "port.png",
+      "githubUrl": "https://github.com/LaxmanSA"
+    },
+    {
+      "title": "Automatic Timetable Generator", 
+      "description": "Spring Boot + Hibernate + MySQL - 40% scheduling time reduction. 25% conflict reduction with optimized algorithms, customizable slots.",
+      "imgUrl": "port.png",
+      "githubUrl": "https://github.com/LaxmanSA"
+    },
+    {
+      "title": "ESP32 Surveillance Car",
+      "description": "Embedded C backend (50% latency reduction), HTML/JS live video streaming frontend for remote surveillance.",
+      "imgUrl": "port.png",
+      "githubUrl": "https://github.com/LaxmanSA"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "API Developer Internship",
+      "completionDate": "Dec 2025",
+      "institute": "Probus Software Pvt Ltd",
+      "imgUrl": "API Internship.pdf"
+    },
+    {
+      "title": "Full Stack Java Development",
+      "completionDate": "July 2024",
+      "institute": "Symbiosis Centre for Distance Learning",
+      "imgUrl": "Java Certificate.jpg"
+    },
+    {
+      "title": "Data Structures Using C",
+      "completionDate": "June 2024",
+      "institute": "Swayam", 
+      "imgUrl": "Swayam DSA Certificate.pdf"
+    },
+    {
+      "title": "Symbiosis Certification 1",
+      "completionDate": "2024",
+      "institute": "Symbiosis",
+      "imgUrl": "DM-EDL-70302-Laxman Suryakant Andhale.pdf"
+    },
+    {
+      "title": "Symbiosis Certification 2",
+      "completionDate": "2024", 
+      "institute": "Symbiosis",
+      "imgUrl": "EDL-PPS-81027-Laxman Suryakant Andhale.pdf"
+    }
+  ],
+  "testimonials": [],
+  "contactInfo": {
+    "heading": "Get In Touch",
+    "subheading": "Ready to build scalable full-stack solutions?",
+    "phone": "+91 8856087006",
+    "emailJsConfig": {
+      "serviceId": "service_hyg3qse",
+      "templateId": "template_872kmo9",
+      "publicKey": "IFz-Ot4BAJQ3XzunH"
+    }
+  },
+  "sectionDescriptions": {
+    "projects": "University projects showcasing fullstack backend frontend embedded expertise.",
+    "certificates": "Professional certifications validating backend fullstack skills.",
+    "technicalSkills": "Expertise in modern full-stack technologies"
+  },
+  "assets": {
+    "resume": "LaxmanFullSatck.pdf"
+  }
+}
