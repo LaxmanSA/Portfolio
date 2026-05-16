@@ -1,5 +1,6 @@
 {
-  "homepage": "https://laxmanandhale.netlify.app",
+  "homepage": "./",
+
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
