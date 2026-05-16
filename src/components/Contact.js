@@ -4,7 +4,8 @@ import contactImg from "../assets/img/mail.svg";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 import emailjs from 'emailjs-com';
-import { FiSend, FiDownload, FiPhone } from 'react-icons/fi';
+import { FiSend, FiDownload } from 'react-icons/fi';
+
 import resumePDF from "../assets/LaxmanFullSatck.pdf";
 import './Contact.css';
 
@@ -17,7 +18,8 @@ export const Contact = () => {
     message: ''
   }
   const [formDetails, setFormDetails] = useState(formInitialDetails);
-  const [buttonText, setButtonText] = useState('Send');
+  const [_, setButtonText] = useState('Send');
+
 
   const [status, setStatus] = useState({});
 
